@@ -1,2 +1,0 @@
-# quick_commerce_stub_code_Capstone_Project
-quick_commerce_AI
