@@ -70,6 +70,6 @@ Asynchronous order processing simulation
 AI-driven personalization for improved user engagement
 Clean separation of frontend, backend, and business logic
 
-**Author**
+Author:
 Ganesan Ramachandran
 mail: gane27@gmail.com
