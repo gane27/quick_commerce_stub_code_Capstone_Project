@@ -28,8 +28,10 @@ Smart Fulfilment Simulation
 4.	Nearest delivery hotspot to the selected warehouse
 5.	Optimized delivery route using distance calculations (Euclidean distance)
 
-Order Processing Logic
-Simulated real-world delays for:
+**Order Processing Logic**
+
+**Simulated real-world delays for:**
+
 •	Item picking
 •	Delivery
 •	Uses set Timeout to mimic asynchronous fulfilment
@@ -39,12 +41,14 @@ Simulated real-world delays for:
 •	AI-Powered Product Recommendations
 •	Personalized product suggestions on the homepage
 •	Recommendations generated using external LLM APIs
-AI logic considers:
+
+**AI logic considers:**
 •	Available inventory
 •	User order history
 •	Recommendations displayed using a product carousel
 
-Technology Stack
+**Technology Stack:**
+
 •	Frontend
 •	React.js
 •	JavaScript
@@ -61,7 +65,7 @@ Technology Stack
 •	Prompt Engineering with LLMs
 •	GitHub Copilot
 
-**Highlights:**
+****Highlights:**
 •	Modular and scalable architecture
 •	Distance-based fulfilment logic using Euclidean calculations
 •	Asynchronous order processing simulation
