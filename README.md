@@ -1,3 +1,5 @@
+**Smart Quick Commerce App with GenAI – React.js**
+
 This project is a Quick Commerce web application that simulates a responsive and intelligent order fulfilment system.
 It models real-world interactions between users, virtual warehouses, and delivery hotspots, focusing on efficient order processing, delivery routing, and a personalized user experience.
 The system dynamically selects the nearest warehouse and delivery hotspot using proximity-based calculations and enhances product discovery through AI-powered recommendations.
